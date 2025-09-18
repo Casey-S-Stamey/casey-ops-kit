@@ -1,0 +1,20 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PowerShell
+*.ps1xml
+*.pssc
+*.psm1.pssc
+*.ps1~*
+*.log
+
+# Secrets (never commit these)
+*.pfx
+*.pem
+secrets/*.json
+*.csv
