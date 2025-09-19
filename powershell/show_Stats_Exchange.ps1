@@ -9,10 +9,6 @@ Usage:
 
 Notes: Requires Exchange Online module and proper RBAC.
 #>
-param(
-    [string]$OutputPath = ".\mailbox-access.csv"
-)
-
 
 
 
